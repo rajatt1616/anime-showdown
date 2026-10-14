@@ -1,36 +1,75 @@
 {
   "naruto": {
-    "name": "Naruto ",
-    "rarity": "LEGENDARY",
-    "rarityClass": "rarity-leg",
-    "image": "naruto.jpg",
-    "abilityName": "Nine-Tails Chakra",
-    "abilityType": "boost",
-    "abilityTarget": "strength",
-    "abilityValue": 15,
-    "stats": {
-      "strength": 90,
-      "speed": 85,
-      "iq": 70,
-      "durability": 95,
-      "combat": 88
-    }
+    "name": "NARUTO UZUMAKI",
+    "title": "NINE-TAILS NINJA",
+    "image": "assets/naruto.jpg",
+    "stats": { "strength": 90, "speed": 85, "iq": 70, "durability": 95, "combat": 88 }
   },
   "sasuke": {
-    "name": "Sasuke ",
-    "rarity": "EPIC",
-    "rarityClass": "rarity-epic",
-    "image": "SASUKE.jpg",
-    "abilityName": "Sharingan",
-    "abilityType": "boost",
-    "abilityTarget": "speed",
-    "abilityValue": 10,
-    "stats": {
-      "strength": 82,
-      "speed": 94,
-      "iq": 96,
-      "durability": 78,
-      "combat": 92
-    }
+    "name": "SASUKE UCHIHA",
+    "title": "AVENGER OF THE UCHIHA",
+    "image": "assets/SASUKE.jpg",
+    "stats": { "strength": 88, "speed": 92, "iq": 85, "durability": 80, "combat": 94 }
+  },
+  "goku": {
+    "name": "SON GOKU",
+    "title": "SAIYAN WARRIOR",
+    "image": "assets/goku.jpg",
+    "stats": { "strength": 99, "speed": 96, "iq": 65, "durability": 99, "combat": 97 }
+  },
+  "luffy": {
+    "name": "MONKEY D LUFFY",
+    "title": "PIRATE KING",
+    "image": "assets/luffy.jpg",
+    "stats": { "strength": 94, "speed": 90, "iq": 60, "durability": 96, "combat": 92 }
+  },
+  "ichigo": {
+    "name": "ICHIGO KUROSAKI",
+    "title": "SOUL REAPER",
+    "image": "assets/ichigo.jpg",
+    "stats": { "strength": 92, "speed": 88, "iq": 72, "durability": 90, "combat": 93 }
+  },
+  "gojo": {
+    "name": "SATORU GOJO",
+    "title": "THE HONOURED ONE",
+    "image": "assets/gojo.jpg",
+    "stats": { "strength": 95, "speed": 93, "iq": 96, "durability": 89, "combat": 98 }
+  },
+  "tanjiro": {
+    "name": "TANJIRO KAMADO",
+    "title": "SUN BREATING USER",
+    "image": "assets/tanjiro.jpg",
+    "stats": { "strength": 84, "speed": 89, "iq": 75, "durability": 88, "combat": 90 }
+  },
+  "levi": {
+    "name": "LEVI ACKERMAN",
+    "title": "HUMANITY'S STRONGEST",
+    "image": "assets/levi.jpg",
+    "stats": { "strength": 89, "speed": 97, "iq": 88, "durability": 86, "combat": 96 }
+  },
+  "eren": {
+    "name": "EREN YEAGER",
+    "title": "ATTACK TITAN",
+    "image": "assets/eren.jpg",
+    "stats": { "strength": 91, "speed": 80, "iq": 78, "durability": 97, "combat": 85 }
+  },
+  "light": {
+    "name": "LIGHT YAGAMI",
+    "title": "GOD OF THE NEW WORLD",
+    "image": "assets/light.jpg",
+    "stats": { "strength": 60, "speed": 70, "iq": 99, "durability": 65, "combat": 72 }
+  },
+  "piccolo": {
+    "name": "piccolo",
+    "title": "WE SEE THE FIT BRO",
+    "image": "assets/piccolo.jpg",
+    "stats": { "strength": 86, "speed": 88, "iq": 94, "durability": 93, "combat": 78 }
+  },
+ 
+  "nezuko": {
+    "name": "NEZUKO",
+    "title": "CONQUERED SUN",
+    "image": "assets/nezuko.jpg",
+    "stats": { "strength": 85, "speed": 86, "iq": 92, "durability": 90, "combat": 87 }
   }
 }
