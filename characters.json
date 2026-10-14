@@ -1,0 +1,36 @@
+{
+  "naruto": {
+    "name": "Naruto ",
+    "rarity": "LEGENDARY",
+    "rarityClass": "rarity-leg",
+    "image": "naruto.jpg",
+    "abilityName": "Nine-Tails Chakra",
+    "abilityType": "boost",
+    "abilityTarget": "strength",
+    "abilityValue": 15,
+    "stats": {
+      "strength": 90,
+      "speed": 85,
+      "iq": 70,
+      "durability": 95,
+      "combat": 88
+    }
+  },
+  "sasuke": {
+    "name": "Sasuke ",
+    "rarity": "EPIC",
+    "rarityClass": "rarity-epic",
+    "image": "SASUKE.jpg",
+    "abilityName": "Sharingan",
+    "abilityType": "boost",
+    "abilityTarget": "speed",
+    "abilityValue": 10,
+    "stats": {
+      "strength": 82,
+      "speed": 94,
+      "iq": 96,
+      "durability": 78,
+      "combat": 92
+    }
+  }
+}
